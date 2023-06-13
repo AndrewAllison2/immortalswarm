@@ -117,18 +117,7 @@ function drawPeople() {
 function attackTheater() {
   console.log('Attack!');
 
-  // locations.forEach(location => {
-  //   const filteredArray = people.filter(p => p.location == location)
-  //   const picArray = filteredArray.map(p => p.picture)
 
-  let peopleAreBats = document.getElementById('🎭')
-  peopleAreBats.innerText = ('🦇')
-
-
-
-
-
-  // });
 
 }
 
